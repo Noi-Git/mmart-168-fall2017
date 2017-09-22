@@ -1,3 +1,5 @@
+// Patthamavadee Sinnang (Noi)
+
 let language
 let languageCode
 

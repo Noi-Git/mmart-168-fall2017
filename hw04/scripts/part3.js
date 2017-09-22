@@ -1,3 +1,5 @@
+// Patthamavadee Sinnang (Noi)
+
 let language = 'English'
 let languageCode = 'en'
 let jsonData
